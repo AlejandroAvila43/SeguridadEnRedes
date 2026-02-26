@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/big zip.md",
+                "file": "PicoCTF/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "big zip"
+              "title": "Scavenger Hunt"
             }
           }
         ],
@@ -240,6 +240,10 @@
   },
   "active": "46ff18794867a6c8",
   "lastOpenFiles": [
+    "PicoCTF/Cookies.md",
+    "PicoCTF/Scavenger Hunt.md",
+    "PicoCTF/GET aHEAD.md",
+    "PicoCTF/big zip.md",
     "PicoCTF/chrono.md",
     "PicoCTF/Client-side-again.md",
     "PicoCTF/dont-use-client-side.md",
@@ -262,10 +266,6 @@
     "PicoCTF/repetitions.md",
     "PicoCTF/useless.md",
     "PicoCTF/Magikarp Ground Mission.md",
-    "PicoCTF/First Grep.md",
-    "PicoCTF/First Find.md",
-    "PicoCTF/Wave a flag.md",
-    "PicoCTF/what's a net cat.md",
     "Untitled",
     "PicoCTF"
   ]
