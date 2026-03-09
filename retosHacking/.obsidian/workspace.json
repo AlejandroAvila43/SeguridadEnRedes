@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/JaWT Scratchpad.md",
+                "file": "PicoCTF/Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JaWT Scratchpad"
+              "title": "Trickster"
             }
           }
         ],
@@ -254,9 +254,13 @@
   },
   "active": "10b27d0a602b70c0",
   "lastOpenFiles": [
+    "PicoCTF/Most Cookies.md",
+    "PicoCTF/Trickster.md",
+    "PicoCTF/SOAP.md",
+    "PicoCTF/MatchTheRegex.md",
+    "PicoCTF/JaWT Scratchpad.md",
     "PicoCTF/Logon.md",
     "PicoCTF/More SQLi.md",
-    "PicoCTF/JaWT Scratchpad.md",
     "PicoCTF/Irish-Name-Repo 1.md",
     "PicoCTF/Scavenger Hunt.md",
     "PicoCTF/Cookies.md",
@@ -276,10 +280,6 @@
     "PicoCTF/PW Crack 1.md",
     "PicoCTF/fixme2.py.md",
     "PicoCTF/fixme1.py.md",
-    "PicoCTF/convertme.py.md",
-    "PicoCTF/Codebook.md",
-    "PicoCTF/runme.py.md",
-    "PicoCTF/Super SSH.md",
     "Untitled",
     "PicoCTF"
   ]
