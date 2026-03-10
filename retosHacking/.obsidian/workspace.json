@@ -81,16 +81,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Trickster.md",
+                "file": "PicoCTF/Glory of the Garden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trickster"
+              "title": "Glory of the Garden"
+            }
+          },
+          {
+            "id": "bbe07d1b2836d689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/What Lies Within.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What Lies Within"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -252,10 +266,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "10b27d0a602b70c0",
+  "active": "bbe07d1b2836d689",
   "lastOpenFiles": [
-    "PicoCTF/Most Cookies.md",
+    "PicoCTF/extensions.md",
+    "PicoCTF/What Lies Within.md",
+    "PicoCTF/shark on wire 1.md",
+    "PicoCTF/So Meta.md",
+    "Sin título.md",
+    "PicoCTF/Glory of the Garden.md",
     "PicoCTF/Trickster.md",
+    "PicoCTF/Most Cookies.md",
     "PicoCTF/SOAP.md",
     "PicoCTF/MatchTheRegex.md",
     "PicoCTF/JaWT Scratchpad.md",
@@ -274,12 +294,6 @@
     "PicoCTF/Inspector.md",
     "PicoCTF/Special.md",
     "PicoCTF/Permissions.md",
-    "PicoCTF/Serpentine.md",
-    "PicoCTF/PW Crack 3.md",
-    "PicoCTF/PW Crack 2.md",
-    "PicoCTF/PW Crack 1.md",
-    "PicoCTF/fixme2.py.md",
-    "PicoCTF/fixme1.py.md",
     "Untitled",
     "PicoCTF"
   ]
