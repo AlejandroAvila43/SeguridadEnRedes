@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/What Lies Within.md",
+                "file": "PicoCTF/shark on wire 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What Lies Within"
+              "title": "shark on wire 2"
             }
           }
         ],
@@ -268,8 +268,13 @@
   },
   "active": "bbe07d1b2836d689",
   "lastOpenFiles": [
-    "PicoCTF/extensions.md",
+    "PicoCTF/like1000.md",
+    "PicoCTF/shark on wire 2.md",
+    "PicoCTF/c0rrupt.md",
+    "PicoCTF/whitepages.md",
+    "PicoCTF/m00nwalk.md",
     "PicoCTF/What Lies Within.md",
+    "PicoCTF/extensions.md",
     "PicoCTF/shark on wire 1.md",
     "PicoCTF/So Meta.md",
     "Sin título.md",
@@ -289,11 +294,6 @@
     "PicoCTF/chrono.md",
     "PicoCTF/Client-side-again.md",
     "PicoCTF/dont-use-client-side.md",
-    "PicoCTF/where are the robots.md",
-    "PicoCTF/picobrowser.md",
-    "PicoCTF/Inspector.md",
-    "PicoCTF/Special.md",
-    "PicoCTF/Permissions.md",
     "Untitled",
     "PicoCTF"
   ]
