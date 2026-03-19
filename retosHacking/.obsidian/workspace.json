@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/shark on wire 2.md",
+                "file": "PicoCTF/MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shark on wire 2"
+              "title": "MacroHard WeakEdge"
             }
           }
         ],
@@ -268,8 +268,13 @@
   },
   "active": "bbe07d1b2836d689",
   "lastOpenFiles": [
-    "PicoCTF/like1000.md",
+    "PicoCTF/tunn3l v1s10n.md",
+    "PicoCTF/MacroHard WeakEdge.md",
+    "PicoCTF/Matryoshka doll.md",
+    "Webnet1.md",
+    "PicoCTF/WebNet0.md",
     "PicoCTF/shark on wire 2.md",
+    "PicoCTF/like1000.md",
     "PicoCTF/c0rrupt.md",
     "PicoCTF/whitepages.md",
     "PicoCTF/m00nwalk.md",
@@ -289,11 +294,6 @@
     "PicoCTF/Irish-Name-Repo 1.md",
     "PicoCTF/Scavenger Hunt.md",
     "PicoCTF/Cookies.md",
-    "PicoCTF/GET aHEAD.md",
-    "PicoCTF/big zip.md",
-    "PicoCTF/chrono.md",
-    "PicoCTF/Client-side-again.md",
-    "PicoCTF/dont-use-client-side.md",
     "Untitled",
     "PicoCTF"
   ]
