@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/RED.md",
+                "file": "PicoCTF/examen 1 web/SSTI2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RED"
+              "title": "SSTI2"
             }
           }
         ],
@@ -282,8 +282,27 @@
   },
   "active": "c76659b1bbdc7984",
   "lastOpenFiles": [
-    "PicoCTF/Secret of the Polyglot.md",
+    "PicoCTF/examen 1 web/SQL Direct.md",
+    "PicoCTF/examen 1 web/SSTI2.md",
+    "PicoCTF/examen 1 web/findme.md",
+    "PicoCTF/examen 1 web/SSTI1.md",
+    "PicoCTF/examen 1 web/head-dump.md",
+    "PicoCTF/examen 1 web/Cookie Monster Secret Recipe.md",
+    "PicoCTF/examen 1 web/Bookmarklet.md",
+    "PicoCTF/Examen 1 General skills/Specialer.md",
+    "PicoCTF/examen 1 web",
+    "PicoCTF/Examen 1 General skills/SansAlpha.md",
+    "PicoCTF/Examen 1 General skills/Python Wrangling.md",
+    "PicoCTF/Examen 1 General skills/flag_shop.md",
+    "PicoCTF/Examen 1 General skills/dont-you-love-banners.md",
+    "PicoCTF/Examen 1 General skills/Rust fixme 3.md",
+    "PicoCTF/Examen 1 General skills/Rust fixme 2.md",
+    "PicoCTF/Examen 1 General skills/Rust fixme 1.md",
+    "PicoCTF/Examen 1 General skills/HashingJobApp.md",
+    "PicoCTF/Examen 1 General skills/FANTASY CTF.md",
     "PicoCTF/RED.md",
+    "PicoCTF/Examen 1 General skills",
+    "PicoCTF/Secret of the Polyglot.md",
     "PicoCTF/CanYouSee.md",
     "PicoCTF/Scan Surprise.md",
     "PicoCTF/Redaction gone wrong.md",
@@ -291,23 +310,6 @@
     "PicoCTF/information.md",
     "PicoCTF/Operation Oni.md",
     "PicoCTF/Operation Orchid.md",
-    "PicoCTF/Sleuthkit Apprentice.md",
-    "PicoCTF/Sleuthkit Intro.md",
-    "PicoCTF/Disk, disk, sleuth!.md",
-    "PicoCTF/# 2-2 warm.md",
-    "PicoCTF/Milkslap.md",
-    "PicoCTF/Quizploit.md",
-    "PicoCTF/MultiCode.md",
-    "PicoCTF/Printer shares.md",
-    "PicoCTF/01 - Old Sessions.md",
-    "PicoCTF/02 - Credential Stuffing.md",
-    "PicoCTF/bytemancy 0.md",
-    "PicoCTF/bytemancy 1.md",
-    "PicoCTF/MY GIT.md",
-    "PicoCTF/GS-Piece by Piece.md",
-    "PicoCTF/GS-SUDO MAKE ME A SANDWICH.md",
-    "PicoCTF/Quizploit1.md",
-    "PicoCTF/MacroHard WeakEdge.md",
     "Untitled",
     "PicoCTF"
   ]
