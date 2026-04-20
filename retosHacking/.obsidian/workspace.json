@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/rsa-pop-quiz.md",
+                "file": "PicoCTF/b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rsa-pop-quiz"
+              "title": "b00tl3gRSA3"
             }
           }
         ],
@@ -282,8 +282,12 @@
   },
   "active": "c76659b1bbdc7984",
   "lastOpenFiles": [
-    "PicoCTF/interencdec.md",
+    "PicoCTF/b00tl3gRSA2.md",
+    "PicoCTF/b00tl3gRSA3.md",
+    "PicoCTF/Mind your Ps and Qs.md",
+    "PicoCTF/Mini RSA.md",
     "PicoCTF/rsa-pop-quiz.md",
+    "PicoCTF/interencdec.md",
     "PicoCTF/waves over lambda.md",
     "PicoCTF/Tapping.md",
     "PicoCTF/la cifra de.md",
@@ -305,10 +309,6 @@
     "PicoCTF/Examen 1 General skills/Python Wrangling.md",
     "PicoCTF/Examen 1 General skills/flag_shop.md",
     "PicoCTF/Examen 1 General skills/dont-you-love-banners.md",
-    "PicoCTF/Examen 1 General skills/Rust fixme 3.md",
-    "PicoCTF/Examen 1 General skills/Rust fixme 2.md",
-    "PicoCTF/Examen 1 General skills/Rust fixme 1.md",
-    "PicoCTF/Examen 1 General skills/HashingJobApp.md",
     "PicoCTF/Examen 1 General skills",
     "Untitled",
     "PicoCTF"
