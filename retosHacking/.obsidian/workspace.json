@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Banderas.md",
+                "file": "PicoCTF/Vigenere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Banderas"
+              "title": "Vigenere"
             }
           }
         ],
@@ -282,8 +282,18 @@
   },
   "active": "c76659b1bbdc7984",
   "lastOpenFiles": [
-    "PicoCTF/ReadMyCert.md",
+    "PicoCTF/substitution2.md",
+    "PicoCTF/Vigenere.md",
+    "PicoCTF/substitution1.md",
+    "PicoCTF/substitution0.md",
+    "PicoCTF/rail-fence.md",
+    "PicoCTF/Código Morse.md",
+    "PicoCTF/credstuff.md",
+    "PicoCTF/Crack the Power.md",
+    "PicoCTF/hashcrack.md",
+    "PicoCTF/EVEN RSA CAN BE BROKEN.md",
     "PicoCTF/Banderas.md",
+    "PicoCTF/ReadMyCert.md",
     "PicoCTF/HideToSee.md",
     "PicoCTF/basic-mod1.md",
     "PicoCTF/pixeleado.md",
@@ -298,16 +308,6 @@
     "PicoCTF/la cifra de.md",
     "PicoCTF/Easy1.md",
     "PicoCTF/caesar.md",
-    "PicoCTF/13.md",
-    "PicoCTF/The numbers.md",
-    "PicoCTF/examen 1 web/Java Code Analysis.md",
-    "PicoCTF/examen 1 web/findme.md",
-    "PicoCTF/examen 1 web/Bookmarklet.md",
-    "PicoCTF/examen 1 web/Cookie Monster Secret Recipe.md",
-    "PicoCTF/examen 1 web/head-dump.md",
-    "PicoCTF/examen 1 web/SSTI2.md",
-    "PicoCTF/examen 1 web/SSTI1.md",
-    "PicoCTF/examen 1 web/SQL Direct.md",
     "PicoCTF/examen 1 web",
     "PicoCTF/Examen 1 General skills",
     "Untitled",
