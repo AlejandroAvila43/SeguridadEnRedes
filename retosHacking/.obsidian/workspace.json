@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Vigenere.md",
+                "file": "PicoCTF/vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vigenere"
+              "title": "vault-door-5"
             }
           }
         ],
@@ -282,8 +282,18 @@
   },
   "active": "c76659b1bbdc7984",
   "lastOpenFiles": [
-    "PicoCTF/substitution2.md",
+    "PicoCTF/vault-door-4.md",
+    "PicoCTF/vault-door-5.md",
+    "PicoCTF/vault-door-3.md",
+    "PicoCTF/Sin nombre",
+    "PicoCTF/vault-door-1.md",
+    "PicoCTF/vault-door-training.md",
+    "PicoCTF/Permissions.md",
+    "PicoCTF/Operation Oni.md",
+    "PicoCTF/More SQLi.md",
+    "PicoCTF/Inspector.md",
     "PicoCTF/Vigenere.md",
+    "PicoCTF/substitution2.md",
     "PicoCTF/substitution1.md",
     "PicoCTF/substitution0.md",
     "PicoCTF/rail-fence.md",
@@ -299,15 +309,6 @@
     "PicoCTF/pixeleado.md",
     "PicoCTF/b00tl3gRSA3.md",
     "PicoCTF/b00tl3gRSA2.md",
-    "PicoCTF/Mind your Ps and Qs.md",
-    "PicoCTF/Mini RSA.md",
-    "PicoCTF/rsa-pop-quiz.md",
-    "PicoCTF/interencdec.md",
-    "PicoCTF/waves over lambda.md",
-    "PicoCTF/Tapping.md",
-    "PicoCTF/la cifra de.md",
-    "PicoCTF/Easy1.md",
-    "PicoCTF/caesar.md",
     "PicoCTF/examen 1 web",
     "PicoCTF/Examen 1 General skills",
     "Untitled",
